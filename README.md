@@ -1,5 +1,4 @@
-# Tarjeta de crédito válida
-
+# Tarjeta de crédito 
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
