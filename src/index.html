@@ -12,7 +12,7 @@
   <header>
     <ul>
       <span class="logo">Momentia</span>
-      <ol class="slogan">Belleza y cuidado personal</ol>
+      <p class="slogan">Belleza y cuidado personal</p>
     </ul>
   </header>
 
@@ -20,20 +20,19 @@
     <h1>Método de pago</h1>
     <h2>Utilizar un cupón de regalo</h2>
 
-    <form onkeydown="return event.key != 'Enter';" action="" method="POST" id="form">
+    <form id="form">
       <div class="form">
-
         <div class="grupo">
           <label for="numeroTarjeta">Número de tarjeta</label><br>
           <input type="text" id="numeroTarjeta" maxlength="16">
         </div>
-        <p></p>
+        <br>
 
         <div class="grupo">
           <label for="nombreTarjeta">Nombre y Apellido como figura en la tarjeta</label><br>
           <input type="text" id="nombreTarjeta">
         </div>
-        <p></p>
+        <br>
 
         <div class="grupo">
           <label>Fecha de vencimiento</label><br>
@@ -62,13 +61,13 @@
             <option value="28">2028</option>
           </select>
         </div>
-        <p></p>
+        <br>
 
         <div class="grupo">
           <label for="codigoDeSeguridad">Código de seguridad</label><br>
           <input type="text" id="codigoDeSeguridad" maxlength="4">
         </div>
-        <p></p>
+        <br>
 
         <button id="btnfinalizarCompra" type="submit" class="boton">Finalizar compra</button>
         <p class="warnings" id="warnings"></p>
