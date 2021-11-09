@@ -6,7 +6,9 @@ En este proyecto se determina si una tarjeta de débito o crédito es válida o 
 el algoritmo de Luhn), dentro de un formulario de datos de tarjeta para la 
 culimación de compra de productos de belleza y cuidado personal en una tienda virtual.
 
-![imagenFinalDelProyecto](trabajoFinal.PNG "Trabajo final")
+<p align="center"> 
+<img width="450" height="300"src="src/images/trabajoFinal.PNG">
+</p>
 
 ### Investigación UX
 
@@ -28,10 +30,14 @@ sus datos de tarjeta en una tienda online a fin de culminar su compra y recibir 
  solo una persona es responsable de velar por el avance y éxito del proyecto. 
 * Luego, se elaboró un prototipo de acuerdo a los requerimientos del backlog.
 
-![primerPrototipo](Prototipo1.png "Primer prototipo")
+<p align="center"> 
+<img width="450" height="300"src="src/images/prototipo1.png">
+</p>
 
 * Las integrantes del Squad 07-Lima 16 de Laboratoria realizaron un feedback al prototipo.
 * Se realizaron las mejoras correspondientes al prototipo para una mejor experiencia
 del usuario.
 
-![prototipoFinal](Prototipo2.png "Prototipo final")
+<p align="center"> 
+<img width="450" height="300"src="src/images/prototipo2.png">
+</p>
